@@ -9,6 +9,11 @@
 import post from "./post";
 import user from "./user";
 import "./styles/style.css";
+import { a } from "./button";
 
 console.log(post);
 console.log(user);
+console.log(a);
+
+
+a();
